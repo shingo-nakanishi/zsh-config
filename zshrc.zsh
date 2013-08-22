@@ -1,7 +1,7 @@
 export PATH=.rbenv/shims:/opt/local/bin:/usr/local/bin:/opt/local/sbin:/usr/local/mysql/bin/:/Applications:$PATH
 export SVN_EDITOR="vim"
 export GIT_EDITOR="vim"
-export PAGER=~/bin/vimpager
+#export PAGER=~/bin/vimpager
 export LANG=ja_JP.UTF-8
 WORDCHARS=${WORDCHARS:s,/,,}
 
