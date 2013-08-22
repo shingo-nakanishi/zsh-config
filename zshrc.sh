@@ -22,4 +22,4 @@ source $ZDOTDIR/lib/z-common-alias.sh
 source $ZDOTDIR/lib/z-my-function.sh
 source $ZDOTDIR/lib/z-emacs-bind.sh
 source $ZDOTDIR/lib/z-history.sh
-sourcd $ZDOTDIR/lib/z-zmv.sh
+source $ZDOTDIR/lib/z-zmv.sh
