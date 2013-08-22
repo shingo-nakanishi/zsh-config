@@ -15,7 +15,7 @@ setopt pushd_ignore_dups  #重複するなら古い方を消す
 ################################################################
 # 分割したファイルの読み込み
 ################################################################
-source $ZDOTDIR/lib/z-prompt.sh
+#source $ZDOTDIR/lib/z-prompt.sh
 source $ZDOTDIR/lib/z-complement.sh
 source $ZDOTDIR/lib/z-ruby.sh
 source $ZDOTDIR/lib/z-common-alias.sh
