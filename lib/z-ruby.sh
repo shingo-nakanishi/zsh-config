@@ -4,7 +4,6 @@ echo "include z-ruby.sh"
 # ruby(RoR)系
 # PATH設定とエイリアス
 ################################################################
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 eval "$(rbenv init -)"
 alias b='bundle exec'
 alias b-install-local='rbenv exec bundle install --path=vendor/bundle && rbenv rehash'

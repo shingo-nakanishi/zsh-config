@@ -17,7 +17,7 @@ setopt pushd_ignore_dups  #重複するなら古い方を消す
 ################################################################
 #source $ZDOTDIR/lib/z-prompt.sh
 source $ZDOTDIR/lib/z-complement.sh
-source $ZDOTDIR/lib/z-ruby.sh
+#source $ZDOTDIR/lib/z-ruby.sh
 source $ZDOTDIR/lib/z-common-alias.sh
 source $ZDOTDIR/lib/z-my-function.sh
 source $ZDOTDIR/lib/z-emacs-bind.sh
