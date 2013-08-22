@@ -9,11 +9,10 @@ $ cd ~/my-config
 $ git clone git@github.com:shingo-nakanishi/zsh-config.git
 ```
 
-### Edit ~/.zshrc
-Edit `~/.zshrc`.  
+### Edit /etc/zshenv
+Edit `/etc/zshenv`.  
 
-Be careful This mean your `~/.zshrc` is deleted.
-
+add `/etc/zshenv`
 ```
 ZDOTDIR=$HOME/my-config/zsh-config
 
