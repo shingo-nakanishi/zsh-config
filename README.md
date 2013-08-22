@@ -28,9 +28,6 @@ after edit, `sudo chmod 444 /etc/zshenv`
 ### Open New Zsh
 Open new zsh.  
 
-You can Not use `$ zsh` in terminal. Open zsh as New Window.
-
-
 
 ## Option
 ### Prompt For Git
