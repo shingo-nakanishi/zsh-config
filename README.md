@@ -10,5 +10,6 @@ $ git clone git@github.com:shingo-nakanishi/zsh-config.git
 ```
 
 ## Edit ~/.zshrc
-Edit `~/.zshrc`
+Edit `~/.zshrc`.  
+
 this mean your `~/.zshrc` is deleted. be cafule.
