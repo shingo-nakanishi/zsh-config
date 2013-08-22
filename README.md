@@ -23,9 +23,10 @@ export ZDOTDIR
 ```
 
 ### Open New Zsh
-open new zsh.  
+Open new zsh.  
 
-You can Not use `$ zsh` in terminal.
+You can Not use `$ zsh` in terminal. Open zsh as New Window.
+
 
 
 ## Option
