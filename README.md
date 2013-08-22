@@ -42,3 +42,15 @@ install [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-gi
 and Edit `zshrc.sh`
 
 `#source $ZDOTDIR/lib/z-prompt.sh` to `source $ZDOTDIR/lib/z-prompt.sh`
+
+### Alias For rbenv
+This zsh-config use [sstephenson/rbenv](https://github.com/sstephenson/rbenv).  
+
+But This part is comment outed.  
+
+If you want to rbenv and my alias.  
+
+Install [sstephenson/rbenv](https://github.com/sstephenson/rbenv)  
+
+and Edit `zshrc.sh`
+`#source $ZDOTDIR/lib/z-ruby.sh` to `source $ZDOTDIR/lib/z-ruby.sh`
