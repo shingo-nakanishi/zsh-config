@@ -14,8 +14,6 @@ Edit `~/.zshrc`.
 
 Be careful This mean your `~/.zshrc` is deleted.
 
-~.zshrc
-
 ```
 ZDOTDIR=$HOME/my-config/zsh-config
 
