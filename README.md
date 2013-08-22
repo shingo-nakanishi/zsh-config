@@ -19,7 +19,7 @@ ZDOTDIR=$HOME/my-config/zsh-config
 
 export ZDOTDIR
 
-. $ZDOTDIR/zshrc.sh
+. $ZDOTDIR/zshrc.zsh
 ```
 
 ### Open New Zsh
