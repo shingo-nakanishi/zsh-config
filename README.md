@@ -21,6 +21,10 @@ export ZDOTDIR
 . $ZDOTDIR/zshrc.zsh
 ```
 
+mybe, you will get permission error `/etc/zshenv`
+so `sudo chmod 777 /etc/zshenv`
+after edit, `sudo chmod 444 /etc/zshenv`
+
 ### Open New Zsh
 Open new zsh.  
 
