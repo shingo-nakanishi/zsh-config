@@ -13,3 +13,13 @@ $ git clone git@github.com:shingo-nakanishi/zsh-config.git
 Edit `~/.zshrc`.  
 
 Be careful This mean your `~/.zshrc` is deleted.
+
+~.zshrc
+
+```
+ZDOTDIR=$HOME/my-config/zsh-config
+
+export ZDOTDIR
+
+. $ZDOTDIR/zshrc.sh
+```
