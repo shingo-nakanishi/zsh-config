@@ -23,6 +23,7 @@ export ZDOTDIR
 ```
 
 ## Option
+### prompt For Git
 This zsh-config use [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt).  
 
 But This part is comment outed.  
