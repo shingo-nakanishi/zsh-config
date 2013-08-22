@@ -23,8 +23,14 @@ export ZDOTDIR
 ```
 
 ## Option
-This zsh-config use [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt).
-But This part is comment outed.
-If you want to [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt),
-install [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt),
-and Edit `lib/z-z-prompt.sh`
+This zsh-config use [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt).  
+
+But This part is comment outed.  
+
+If you want to [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt),  
+
+install [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt),  
+
+and Edit `zshrc.sh`
+
+`#source $ZDOTDIR/lib/z-prompt.sh` to `source $ZDOTDIR/lib/z-prompt.sh`
