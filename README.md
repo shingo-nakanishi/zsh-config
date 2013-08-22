@@ -12,7 +12,7 @@ $ git clone git@github.com:shingo-nakanishi/zsh-config.git
 ### Edit /etc/zshenv
 Edit `/etc/zshenv`.  
 
-add `/etc/zshenv`
+add this
 ```
 ZDOTDIR=$HOME/my-config/zsh-config
 
