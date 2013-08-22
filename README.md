@@ -22,6 +22,11 @@ export ZDOTDIR
 . $ZDOTDIR/zshrc.sh
 ```
 
+### Open New Zsh
+open new zsh.
+not use `$ zsh`
+
+
 ## Option
 ### Prompt For Git
 This zsh-config use [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt).  
