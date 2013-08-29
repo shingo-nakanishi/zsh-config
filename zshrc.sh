@@ -1,4 +1,5 @@
 export PATH=.rbenv/shims:/opt/local/bin:/usr/local/bin:/opt/local/sbin:/usr/local/mysql/bin/:/Applications:$PATH
+export PATH=$PATH:/Users/keigoamai/android-sdks/platform-tools
 export SVN_EDITOR="vim"
 export GIT_EDITOR="vim"
 export PAGER=~/bin/vimpager
